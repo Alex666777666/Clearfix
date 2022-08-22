@@ -1,0 +1,14 @@
+.container {
+  box-sizing: 50%;
+}
+.green {
+  float: left;
+}
+.red {
+  float: right;
+}
+.footer {
+  border: 2px solid black;
+  height: 30px;
+  clear: both;
+}
