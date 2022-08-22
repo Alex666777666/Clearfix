@@ -2,10 +2,12 @@
   box-sizing: 50%;
 }
 .green {
-  float: left;
+  height: 100px;
+  background-color: green;
 }
 .red {
   float: right;
+  background-color: red;
 }
 .footer {
   border: 2px solid black;
