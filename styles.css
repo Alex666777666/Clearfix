@@ -1,6 +1,7 @@
 .container {
-  box-sizing: 50%;
+  width: 50%;
 }
+
 .green {
   float: left;
   background-color: green;
