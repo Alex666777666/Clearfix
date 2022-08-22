@@ -2,7 +2,7 @@
   box-sizing: 50%;
 }
 .green {
-  height: 100px;
+  float: left;
   background-color: green;
 }
 .red {
